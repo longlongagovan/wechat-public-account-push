@@ -36,7 +36,7 @@ const USER_CONFIG = {
         // 相遇纪念日
         { keyword: 'marry_day', date: '2023-12-27' },
       ],
-      SLOT_LIST: [
+      slot_list: [
     // 这样配置的话，就会每次随机选一句话发送
     {
       keyword: 'lover_prattle',
@@ -54,7 +54,6 @@ const USER_CONFIG = {
       ],
     },
   ],
-
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'vas1fSPy1_QXkuDfo7Al6Xgp4Ui3X27DfEYreXZ7jRg',
