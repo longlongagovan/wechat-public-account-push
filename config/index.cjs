@@ -36,18 +36,6 @@ const USER_CONFIG = {
         // 相遇纪念日
         { keyword: 'marry_day', date: '2023-12-27' },
       ],
-      slot_list: [
-    // 这样配置的话，就会每次随机选一句话发送
-        {
-          keyword: 'lover_prattle',
-          contents: [
-                '老公永远爱你！✨',
-                '老公永远保护你！🌟',
-                '老公永远对你好！🎁',
-                '老公永远不伤害你！❤️'
-              ],
-            }
-      ],
     },
   ],
 
